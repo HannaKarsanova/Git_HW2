@@ -1,0 +1,8 @@
+Title
+Environment
+Precondition
+Steps to reproduce
+ER
+AR
+Status
+Attachment
